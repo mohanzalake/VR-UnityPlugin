@@ -1,0 +1,11 @@
+# Blender MTL File: 'low_poly_forest.blend'
+# Material Count: 1
+
+newmtl rock
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.091949 0.091949 0.091949
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
